@@ -1,3 +1,5 @@
 just a file to indicate I have created a new release 0.0.3 with this new file, that's all
 
 indicate an emergency fix to this file for a hotfix release 0.0.4, since this change was mde in the new branch v0.0.4 created with git checkout -b v0.0.4
+
+this file now has a new feature we call 'feature1' that was developed in the 'feature1' branch
