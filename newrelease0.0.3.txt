@@ -6,3 +6,8 @@ this file now has a new feature we call 'feature1' that was developed in the 'fe
 
 now this change was made in master branch, we will soon see a new line that was developed in a feature1 branch right below this
 this line will appear either below or above the line from the master branch, let's see!
+
+new work i want to share via feature1 branch
+
+a collaboeator made this change that now needs to be merged with feature1 branch from origin
+a line that was being developed in the original branch of a user that pushed to origin
