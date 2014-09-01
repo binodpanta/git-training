@@ -7,3 +7,5 @@ this file now has a new feature we call 'feature1' that was developed in the 'fe
 this line will appear either below or above the line from the master branch, let's see!
 
 new work i want to share via feature1 branch
+
+a line that was being developed in the original branch of a user that pushed to origin
