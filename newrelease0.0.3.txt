@@ -10,3 +10,6 @@ new work i want to share via feature1 branch
 
 a collaboeator made this change that now needs to be merged with feature1 branch from origin
 a line that was being developed in the original branch of a user that pushed to origin
+
+
+let's try this to rebase this line into the master branch
